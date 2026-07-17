@@ -4,6 +4,10 @@ MineGoldPlanner is a lightweight gold goal tracker for World of Warcraft: TBC An
 
 Set a daily gold goal, track your progress throughout the month, and mark completed days using a simple in-game calendar.
 
+## Screenshot
+
+![MineGoldPlanner interface](screenshots/minegoldplanner-interface.png)
+
 ## Features
 
 - Custom daily gold goal
@@ -85,10 +89,6 @@ Gold earned before the addon establishes its daily starting balance is not count
 - Drag addon windows to reposition them.
 - Press `Esc` to close an open addon window.
 - Press **Reload** to reload the game interface.
-
-## Screenshot
-
-![MineGoldPlanner interface](screenshots/minegoldplanner-interface.png)
 
 ## Compatibility
 
