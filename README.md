@@ -86,6 +86,10 @@ Gold earned before the addon establishes its daily starting balance is not count
 - Press `Esc` to close an open addon window.
 - Press **Reload** to reload the game interface.
 
+## Screenshot
+
+![MineGoldPlanner interface](screenshots/minegoldplanner-interface.png)
+
 ## Compatibility
 
 Designed for World of Warcraft: TBC Anniversary.
@@ -107,3 +111,4 @@ Designed, tested, and iteratively developed with AI-assisted implementation.
 ## License
 
 This project is available under the [MIT License](LICENSE).
+
