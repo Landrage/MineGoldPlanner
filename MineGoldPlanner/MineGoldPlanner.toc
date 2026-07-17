@@ -1,0 +1,12 @@
+## Interface: 20506
+## Title: Mine Gold Planner
+## Notes: Tracks daily gold goals and monthly progress
+## Author: Landrage
+## Version: 0.1.0
+
+## SavedVariables: MineGoldPlannerDB
+
+Core.lua
+Settings.lua
+UI.lua
+Tracker.lua
